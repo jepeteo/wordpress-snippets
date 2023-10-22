@@ -4,7 +4,9 @@
 
 -   [Woocommerce](#woocommerce)
 
-### Woocommerce Snippets<a name="woocommerce"></a>
+### Woocommerce Snippets {#woocommerce}
 
 -   Add message before payment methods
 -   Prevent adding to cart if product is backorder
+
+## About
