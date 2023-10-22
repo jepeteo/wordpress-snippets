@@ -9,6 +9,6 @@
 -   Add message before payment methods
 -   Prevent adding to cart if product is backorder
 -   Add COD fee based on shipping zone
--   [Update product image title and alt](#update-product-image-title-and-alt)
+-   [Update product image title and alt](woocommerce/update-product-image-title-and-alt.php)
 
 ## About
