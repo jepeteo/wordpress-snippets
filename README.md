@@ -2,9 +2,15 @@
 
 ## Table of Contents
 
--   [Woocommerce](#woocommerce)
+-   [Admin](#admin-snippets)
+-   [Woocommerce](#woocommerce-snippets)
+-   [About](#about)
 
-### Woocommerce Snippets {#woocommerce}
+### Admin Snippets
+
+-   [Add custom admin css](admin/add-custom-admin-css.php)
+
+### Woocommerce Snippets
 
 -   [Add COD fee based on shipping zone](woocommerce/add-cod-fee-based-on-shipping-zone.php)
 -   [Add message before payment methods](woocommerce/add-message-before-payment-options.php)
