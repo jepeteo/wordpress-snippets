@@ -18,5 +18,8 @@
 -   [Prevent adding to cart if product is backorder](woocommerce/prevent-adding-products-on-backorder.php)
 -   [Replace price with link message](woocommerce/replace-price-with-link-message.php)
 -   [Update product image title and alt](woocommerce/update-product-image-title-and-alt.php)
+-   [Apply different shipping method for single product](woocommerce/apply-different-shipping-method-for-single-product.php)
 
 ## About
+
+This repository is a collection of snippets that I have used in my projects.
