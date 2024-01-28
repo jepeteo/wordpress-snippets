@@ -1,0 +1,12 @@
+/* Display the description below the menu */
+li.menu-item a {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Style the description */
+.menu-description {
+    padding: 0 4px;
+    color: #fffc;
+    font-size: 12px;
+}

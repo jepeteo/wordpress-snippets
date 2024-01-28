@@ -10,6 +10,10 @@
 
 -   [Add custom admin css](admin/add-custom-admin-css.php)
 
+### Elementor Snippets
+
+-   [Display menu descriptions](elementor/display-menu-descriptions)
+
 ### Woocommerce Snippets
 
 -   [Add COD fee based on shipping zone](woocommerce/add-cod-fee-based-on-shipping-zone.php)
