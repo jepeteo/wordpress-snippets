@@ -3,6 +3,7 @@
 ## Table of Contents
 
 -   [Admin](#admin-snippets)
+-   [Elementor](#elementor-snippets)
 -   [Woocommerce](#woocommerce-snippets)
 -   [About](#about)
 
