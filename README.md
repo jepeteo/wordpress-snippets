@@ -19,6 +19,7 @@
 
 -   [Add COD fee based on shipping zone](woocommerce/add-cod-fee-based-on-shipping-zone.php)
 -   [Add message before payment methods](woocommerce/add-message-before-payment-options.php)
+-   [Add continue shopping button to checkout](woocommerce/add-continue-shoppping-button-to-checkout.php)
 -   [Display product & total weight on Checkout Page](woocommerce/display-product-weight-and-total-on-checkout-page.php)
 -   [Prevent adding to cart if product is backorder](woocommerce/prevent-adding-products-on-backorder.php)
 -   [Replace price with link message](woocommerce/replace-price-with-link-message.php)
